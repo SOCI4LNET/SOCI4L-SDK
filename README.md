@@ -2,17 +2,17 @@
 
 ![Under Development](https://img.shields.io/badge/status-under--development-orange)
 
-SOCI4L SDK, geliştiricilerin SOCI4L ekosistemiyle kolayca entegre olmasını sağlayan bir araç setidir.
+The SOCI4L SDK is a comprehensive toolkit designed to help developers easily integrate with the SOCI4L ecosystem.
 
-## ⚠️ Mevcut Durum
+## ⚠️ Current Status
 
-Bu repo şu anda **aktif geliştirme aşamasındadır**. 
+This repository is currently under **active development**. 
 
-- Core modüller tasarlanıyor.
-- API bağlantıları hazırlanıyor.
-- Dokümantasyon altyapısı kuruluyor.
+- Core modules are being architected.
+- API integrations are in progress.
+- Documentation infrastructure is being established.
 
-Gelişmeleri takip etmek için bizi izlemeye devam edin.
+Stay tuned for updates as we build the future of decentralized social networking.
 
 ---
 Built with ❤️ by [SOCI4LNET](https://github.com/SOCI4LNET)
