@@ -15,4 +15,5 @@ While we are currently focused on the core SDK infrastructure, we are exploring 
 *   **Ecosystem Identity Cards**: Exploring drop-in UI components and hooks for wallets and dApps to instantly render rich SOCI4L profiles and trust scores.
 *   **Physical-to-Digital Bridge**: Future exploration into QR-based identity helpers for physical events, linking real-world attendance with on-chain reputation.
 *   **Advanced Scoring Models**: Providing programmatic access to custom reputation models with transparent calculation logic for various use cases.
+  
 *Note: These areas represent our current vision for the SDK's evolution and are subject to change based on community feedback and technical feasibility.*
