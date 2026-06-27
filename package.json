@@ -1,0 +1,58 @@
+{
+  "name": "soci4l-sdk",
+  "version": "0.1.0",
+  "description": "Official TypeScript SDK for the SOCI4L reputation API — score any Avalanche wallet and gate on humanity.",
+  "type": "module",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "sideEffects": false,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "tsup",
+    "typecheck": "tsc --noEmit",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "soci4l",
+    "avalanche",
+    "reputation",
+    "sybil",
+    "humanity",
+    "web3",
+    "identity",
+    "score",
+    "airdrop"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SOCI4LNET/SOCI4L-SDK.git"
+  },
+  "homepage": "https://soci4l.net/developers",
+  "bugs": {
+    "url": "https://github.com/SOCI4LNET/SOCI4L-SDK/issues"
+  },
+  "license": "MIT",
+  "author": "SOCI4L",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "tsup": "^8.3.5",
+    "typescript": "^5.7.2"
+  }
+}
